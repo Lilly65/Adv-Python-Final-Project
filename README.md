@@ -1,4 +1,5 @@
 This is my submission for the final project in the Advanced Python module.
+To run the program navigate to the directory containing the python files and run the code "python main.py".
 
 A description of requirement fullilment:
 - Added two new classes the archer and the paladin.
